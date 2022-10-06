@@ -6,7 +6,7 @@ I've used this script in conjuction with a Jira workflow automation that will re
 As written this uses custom field ID: customfield_13267
 You'll find this a in a couple of places in the script replace with your custom field ID as needed.
 
-JQL search must be html encoded in order to be passed in as a variable.
+JQL search string variable must be html encoded.
 
 This script requires the following packages:
 
